@@ -1,5 +1,5 @@
 # Movie Recommender App 2021
-- End-to-end data analytics project using dataset from [MovieLens](https://grouplens.org/datasets/movielens/25m/) containing 25M movie ratings
+- End-to-end data analytics project using datasets from [MovieLens](https://grouplens.org/datasets/movielens/25m/) containing 25M movie ratings
 - Developed a search algorithm for a movie recommender web app
 - Implemented movie images using API from [themoviedb](https://www.themoviedb.org/)
 
