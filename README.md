@@ -1,4 +1,9 @@
 # Movie Recommender App 2021
+
+### Demo
+
+https://user-images.githubusercontent.com/34080006/152404390-bca524f3-21eb-4ef1-8386-fe9135503b52.mov
+
 *Update (2022/02/03): Search filtering does not work as expected*<br/>
 __Issues & Future Updates__:
 - Can't seem to match genres and tags, since the search query only looks for movie titles --> need to figure another way to conduct search
@@ -16,9 +21,6 @@ __Issues & Future Updates__:
 - End-to-end data analytics project using datasets from [MovieLens](https://grouplens.org/datasets/movielens/25m/) containing 25M movie ratings
 
 
-### Demo
-
-https://user-images.githubusercontent.com/34080006/152404390-bca524f3-21eb-4ef1-8386-fe9135503b52.mov
 
 
 ### Description of Files
