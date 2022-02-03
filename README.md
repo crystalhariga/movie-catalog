@@ -1,6 +1,6 @@
 # Movie Recommender App 2021
 *Update (2022/02/03): Search filtering does not work as expected*<br/>
-Issues & Future Updates:
+__Issues & Future Updates__:
 - Can't seem to match genres and tags, since the search query only looks for movie titles --> need to figure another way to conduct search
 - Deploy app through GitHub
 
