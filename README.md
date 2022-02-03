@@ -5,14 +5,19 @@ Issues:
 
 
 ### Summary
-- Designed a data dictionary from 4 datasets for ease of accessibility to display movie information onto Movie Catalog web app
+- Designed a data dictionary from 4 datasets for ease of accessibility to display movie information onto Movie Catalog web app using Python
 - Designed a search algorithm (filtering), by checking whether the search query matches the movie information available (*still needs improvement*)
-- Designed the front-end of web app using Dash, incorporating interactive buttons to search through database
+- Designed the front-end of web app using Dash: incorporating interactive buttons to search through database, displaying movie information and poster images
 - Implemented movie images using API from [themoviedb](https://www.themoviedb.org/)
 
 
 ### Background
 - End-to-end data analytics project using datasets from [MovieLens](https://grouplens.org/datasets/movielens/25m/) containing 25M movie ratings
+
+
+### Demo
+
+https://user-images.githubusercontent.com/34080006/152404390-bca524f3-21eb-4ef1-8386-fe9135503b52.mov
 
 
 ### Description of Files
@@ -21,7 +26,8 @@ Issues:
 - [readData.py](https://github.com/crystalhariga/movie-recommender-2021/blob/main/readData.py): Class file to **read and clean** the movie dataset
 - [topBar.py](https://github.com/crystalhariga/movie-recommender-2021/blob/main/topBar.py): Class file to **return navigation bar** for the web app
 
-### Demo
 
-https://user-images.githubusercontent.com/34080006/152404390-bca524f3-21eb-4ef1-8386-fe9135503b52.mov
-
+### Packages:
+- Dash
+- Pandas
+- Requests
