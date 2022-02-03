@@ -22,4 +22,4 @@ Issues:
 - [topBar.py](https://github.com/crystalhariga/movie-recommender-2021/blob/main/topBar.py): Class file to **return navigation bar** for the web app
 
 ### Demo
-[!Demo](https://github.com/crystalhariga/movie-catalog/blob/main/movie_catalog_demo_20mb.mov)
+![Demo](/movie_catalog_demo_20mb.mov)
